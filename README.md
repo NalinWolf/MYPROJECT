@@ -1,3 +1,3 @@
 My task for a subject at uni (software developmet technology)
-# MYPROJECTS
+# MYPROJECT
 Задание по гитхабу засчитала! Меженная.
